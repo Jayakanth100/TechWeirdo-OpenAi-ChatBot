@@ -36,14 +36,13 @@ Follow these steps to run the project:
 
 6. Run the application on a simulator or connected device:
 
-    npx react-native run-ios  # For iOS
-    # or
-    npx react-native run-android  # For Android
+    npx react-native run-ios  - For iOS
+    [or]
+    npx react-native run-android  - For Android
     
-    
-    
-    
- ![Alt Text](/chat.png?raw = true)
+ ![frontchat](https://github.com/Jayakanth100/OpenAi-ChatBot/assets/77496451/44883f83-2585-4d1e-8047-df6df810b5d6)
+
+ ![chat](https://github.com/Jayakanth100/OpenAi-ChatBot/assets/77496451/229ea89f-adff-4418-88ee-13856ba9cc55)
     
 Usage
 
