@@ -71,14 +71,20 @@ const styles = StyleSheet.create({
         fontWeight: 'bold',
         marginBottom: 20,
         marginTop: 70,
-        borderRadius: 100,
+        borderBottomWidth: 2,
+        borderBottomColor: '#8e8bc4', 
         width: "100%",
         height: 50,
         paddingLeft: 140,
-        paddingTop: 5
+        paddingTop: 5,
+        shadowColor: '#000',
+        shadowOffset: { width: 0, height: 2 },
+        shadowOpacity: 0.4,
+        shadowRadius: 2,
+        elevation: 2,
 
     },
-    body:{
+   body:{
         backgroundColor: "",
         borderRadius: 1,
         width: '102%',
@@ -97,7 +103,8 @@ const styles = StyleSheet.create({
         alignItems:"center"
     },
     botA:{
-        backgroundColor: "#007bff",
+        // backgroundColor: "#007bff",
+        backgroundColor: "#9e99f0",
         borderTopRightRadius: 10,
         borderBottomRightRadius: 10,
         borderBottomLeftRadius: 10,
@@ -108,7 +115,8 @@ const styles = StyleSheet.create({
         marginTop: 10,
         marginLeft:10,
         justifyContent: 'center',
-        alignItems:"center"
+        alignItems:"center",
+        color: "white"
         
     },
     input:{
@@ -123,7 +131,7 @@ const styles = StyleSheet.create({
 
     },
     button:{
-        backgroundColor: 'purple',
+        backgroundColor: '#9e99f0',
         width: '90%',
         height: 60,
         borderRadius: 10,
