@@ -47,7 +47,7 @@ Follow these steps to run the project:
  ![chat](https://github.com/Jayakanth100/OpenAi-ChatBot/assets/77496451/229ea89f-adff-4418-88ee-13856ba9cc55)
  
  # Video
- Link of the video: https://drive.google.com/file/d/1TcvlrMz4JL-xlc2ooY7kQFHhqoTAt8lv/view?usp=sharing
+ Link for the video: https://drive.google.com/file/d/1TcvlrMz4JL-xlc2ooY7kQFHhqoTAt8lv/view?usp=sharing
  
     
 Usage
