@@ -40,6 +40,11 @@ Follow these steps to run the project:
     # or
     npx react-native run-android  # For Android
     
+    
+    
+    
+ ![Alt Text](/chat.png?raw = true)
+    
 Usage
 
 1. Launch the application on your simulator or connected device.
