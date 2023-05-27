@@ -40,9 +40,15 @@ Follow these steps to run the project:
     [or]
     npx react-native run-android  - For Android
     
+# Images
+    
  ![frontchat](https://github.com/Jayakanth100/OpenAi-ChatBot/assets/77496451/44883f83-2585-4d1e-8047-df6df810b5d6)
 
  ![chat](https://github.com/Jayakanth100/OpenAi-ChatBot/assets/77496451/229ea89f-adff-4418-88ee-13856ba9cc55)
+ 
+ # Video
+ Link of the video: https://drive.google.com/file/d/1TcvlrMz4JL-xlc2ooY7kQFHhqoTAt8lv/view?usp=sharing
+ 
     
 Usage
 
